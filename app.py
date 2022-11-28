@@ -4,6 +4,10 @@ from PIL import ImageGrab
 from dnsdetection import chart_recognisation
 import numpy as np
 
+"""
+developed by github id : tayyabmd / tayyabmohammedrq@gmail.com
+"""
+
 
 def ml_detection_input():
     ssl._create_default_https_context = ssl._create_unverified_context
