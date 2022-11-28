@@ -12,7 +12,7 @@ Recommended to use dual monitor. One screen is for Tradingview screen capture an
 
 Disclosure : I am not SEBI registered.The information provided here is for education purposes only. I will not be responsible for any of your profit/loss with this Model Prediction. Consult your financial advisor before taking any decisions.
 
-Demo Pics:
+**Demo Pics:**
 
 DJI
 
@@ -57,6 +57,8 @@ Monitor 2:
 3.Activate Virtual ENV
 
 4.Install requirements.txt
+
+5.Download DNS.pt file from https://drive.google.com/drive/folders/1IdrFQVtjwuQJjcCjB8XMCV-k4T5Cr93N 
 
 5.Copy best.pt file path and change Best.pt Path Line no. 49 in dnsdetection.py
 
