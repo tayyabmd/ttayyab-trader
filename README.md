@@ -1,4 +1,4 @@
-# Live Demand and Supply Detection using python
+# Live Demand and Supply Detection using ML
 
 **Developed a Yolov5 ML Model for detection of Demand and Supply zones in the live technical chart [ TradingView].**
 
