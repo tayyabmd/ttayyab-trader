@@ -4,7 +4,7 @@
 
 This model works for every script i.e, Stocks, Forex, CFDs, Forex, Cyptocurrencies... listed on tradingview.com or any tradingview integrated platforms.
 
-Trained with real time datasets like nifty, banknifty, DJI, SPX, BTCUSDT, Reliance INDs,... charts
+Trained with real time datasets like nifty, banknifty, DJI, SPX, BTCUSDT, GOLD, Crude Oil,... charts
 
 Recommended to use dual monitor. One screen is for Tradingview screen capture and other is to see the model detections.
 
