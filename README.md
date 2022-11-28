@@ -1,6 +1,6 @@
-# ttayyab-trader
+# Live Demand and Supply Detection using python
 
-**Developed a Yolov5 ML Model for detection of Demand and Supply zones in the technical chart [ TradingView].**
+**Developed a Yolov5 ML Model for detection of Demand and Supply zones in the live technical chart [ TradingView].**
 
 This model works for every script i.e, Stocks, Forex, CFDs, Forex, Cyptocurrencies... listed on tradingview.com or any tradingview integrated platforms.
 
